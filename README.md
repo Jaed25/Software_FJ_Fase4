@@ -1,5 +1,6 @@
 # Software_FJ_Fase4
 Sistema de gestión de clientes, servicios y reservas desarrollado en Python.
+
 1. Descripción del proyecto
 
 Software FJ es una aplicación desarrollada en Python que permite administrar clientes, servicios y reservas mediante un sistema organizado de gestión empresarial.
